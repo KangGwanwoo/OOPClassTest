@@ -1,7 +1,7 @@
 import org.junit.Test;
 
-import static org.hamcrest.CoreMatchers.*;
-import static org.junit.Assert.assertThat;
+        import static org.hamcrest.CoreMatchers.*;
+        import static org.junit.Assert.assertThat;
 
 /**
  * Created by ce416-03 on 2014. 10. 10..
